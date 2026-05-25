@@ -10,7 +10,9 @@ Frontend desenvolvido com Vite + React para interação com a plataforma de down
 - Vite
 - Axios
 - React Router
-- Context API
+- Hooks
+- AuthGuard
+- zustand
 
 ## 📌 Funcionalidades
 
