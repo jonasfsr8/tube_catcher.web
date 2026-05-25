@@ -31,3 +31,10 @@ A aplicação se comunica com a API ASP.NET Core para autenticação e envio das
 ```bash
 npm install
 npm run dev
+```
+
+---
+
+# 👨‍💻 Author
+
+Project created only for learning purposes.
